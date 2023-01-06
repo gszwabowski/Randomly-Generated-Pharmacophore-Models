@@ -1,9 +1,0 @@
-#moe:ph4que 2018.01
-#pharmacophore 7 tag t value *
-scheme t Unified matchsize i 0 use_Hs i 1 abspos i 0 title t $ useRval i
-0 comment s $
-#feature 3 expr tt color ix x r y r z r r r ebits ix gbits ix m ix
-Don$mAcc ffcccc -15.353 -23.333 13.097 1 0 400 a64cff Cat$mDon f20df2
--14.754 -22.653 15.556 1 0 400 a64cff Cat$mDon f20df2 -15.852 -21.419
-14.161 1 0 400 a64cff
-#endpharmacophore
