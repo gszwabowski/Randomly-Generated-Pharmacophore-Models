@@ -1,0 +1,9 @@
+#moe:ph4que 2018.01
+#pharmacophore 7 tag t value *
+scheme t Unified matchsize i 0 use_Hs i 1 abspos i 0 title t $ useRval i
+0 comment s $
+#feature 4 expr tt color ix x r y r z r r r ebits ix gbits ix m ix
+AtomQ f2f20d 14.736 36.372 7.196 1 0 400 a64cff AtomQ f2f20d 16.22
+36.166 7.494 1 0 400 a64cff AtomQ f2f20d 10.395 32.681 10.16 1 0 400
+a64cff AtomQ f2f20d 14.146 31.324 13.155 1 0 400 a64cff
+#endpharmacophore

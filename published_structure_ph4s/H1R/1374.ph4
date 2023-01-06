@@ -1,0 +1,10 @@
+#moe:ph4que 2019.01
+#pharmacophore 7 tag t value *
+scheme t Unified matchsize i 0 use_Hs i 1 abspos i 0 title t $ useRval i
+0 comment s $
+#feature 5 expr tt color ix x r y r z r r r ebits ix gbits ix m ix
+Hyd df20d 14.986 23.25 9.859 1 0 400 a64cff Don$mAcc ffcccc 7.819 31.686
+2.47 1 0 400 a64cff Don$mAcc ffcccc 14.47 23.774 5.894 1 0 400 a64cff
+Acc df2f2 16.479 17.723 14.918 1 0 400 a64cff Acc df2f2 14.875 19.242
+15.921 1 0 400 a64cff
+#endpharmacophore
